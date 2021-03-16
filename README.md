@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Yury 👋
+
+- 🔭 I’m currently working on all things cloud-native in @AbsaOSS
+- 👯 I’m looking to collaborate on any cool stuff within a Kubernetes ecosystem
+- 💬 Ask me about k8gb.io
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm Russian who lives in Czech Republic and works for South African bank
+
+![Yury's GitHub stats](https://github-readme-stats.vercel.app/api?username=ytsarev&count_private=true&show_icons=true&theme=tokyonight)
+
 
 <!--
 **ytsarev/ytsarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
