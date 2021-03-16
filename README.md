@@ -1,6 +1,6 @@
 ### Hi there, I'm Yury 👋
 
-- 🔭 I’m currently working on all things cloud-native in @AbsaOSS
+- 🔭 I’m currently working on all things cloud-native in [AbsaOSS](https://github.com/AbsaOSS)
 - 👯 I’m looking to collaborate on any cool stuff within a Kubernetes ecosystem
 - 💬 Ask me about k8gb.io
 - 😄 Pronouns: he/him
