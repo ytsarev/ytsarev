@@ -1,8 +1,8 @@
 ### Hi there, I'm Yury 👋
 
-- 🔭 I’m currently working on all things cloud-native in [AbsaOSS](https://github.com/AbsaOSS)
+- 🔭 I’m currently working on all things cloud-native in [Upbound](https://github.com/upbound)
 - 👯 I’m looking to collaborate on any cool stuff within a Kubernetes ecosystem
-- 💬 Ask me about k8gb.io
+- 💬 Ask me about k8gb.io, Crossplane and UXP
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm Russian who lives in Czech Republic and works for [Upbound](https://github.com/upbound), the company behind [Crossplane](https://github.com/crossplane/) project 
 
