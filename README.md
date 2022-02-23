@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on any cool stuff within a Kubernetes ecosystem
 - 💬 Ask me about k8gb.io
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm Russian who lives in Czech Republic and works for South African bank
+- ⚡ Fun fact: I'm Russian who lives in Czech Republic and works for @upbound, the company behind @crossplane project 
 
 ![Yury's GitHub stats](https://github-readme-stats.vercel.app/api?username=ytsarev&count_private=true&show_icons=true&theme=tokyonight)
 
