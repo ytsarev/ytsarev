@@ -1,6 +1,6 @@
 ### Hi there, I'm Yury 👋
 
-- 🔭 I’m currently working on revolutionizing infrastructure with control planes in [Upbound](https://github.com/upbound), the company behind [Crossplane](https://github.com/crossplane/) project 
+- 🔭 I’m currently working on revolutionizing infrastructure with control planes in [Upbound](https://github.com/upbound), the company behind [Crossplane](https://github.com/crossplane/)
 - 👯 I’m looking to collaborate on any cool stuff within a Kubernetes ecosystem
 - 💬 Ask me about k8gb.io, Crossplane and UXP
 - 😄 Pronouns: he/him
