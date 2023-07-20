@@ -1,10 +1,10 @@
 ### Hi there, I'm Yury 👋
 
-- 🔭 I’m currently working on all things cloud-native in [Upbound](https://github.com/upbound)
+- 🔭 I’m currently working on revolutionizing infrastructure with control planes in [Upbound](https://github.com/upbound), the company behind [Crossplane](https://github.com/crossplane/) project 
 - 👯 I’m looking to collaborate on any cool stuff within a Kubernetes ecosystem
 - 💬 Ask me about k8gb.io, Crossplane and UXP
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm Russian who lives in Czech Republic and works for [Upbound](https://github.com/upbound), the company behind [Crossplane](https://github.com/crossplane/) project 
+- ⚡ Fun fact: I'm Russian who lives in the Czech Republic and works for a Seattle startup.
 
 ![Yury's GitHub stats](https://github-readme-stats.vercel.app/api?username=ytsarev&count_private=true&show_icons=true&theme=tokyonight)
 
