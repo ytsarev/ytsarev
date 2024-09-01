@@ -2,12 +2,12 @@
 
 - Creator of [**k8gb-io**](https://www.k8gb.io/).
 - Principal Solutions Architect at [**Upbound**](https://github.com/upbound), the company behind [**Crossplane**](https://github.com/crossplane/).
-- Advisory board member at [**MindBankAI**](https://mindbank.ai/).
+- Advisory board member at [**MindBankAI**](https://github.com/MindBankAI).
 - Active open source contributor to [**Kubernetes**](https://kubernetes.io/) and [**Crossplane**](https://github.com/crossplane/) ecosystems.
 
 
 ## 🚀 Featured Projects
-- [**k8gb.io**](https://www.k8gb.io/) - A cloud-native Kubernetes Global Balancer.
+- [**k8gb.io**](https://github.com/k8gb-io/k8gb) - A cloud-native Kubernetes Global Balancer.
 - [**Crossplane**](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane.
 
 
