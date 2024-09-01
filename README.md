@@ -17,7 +17,7 @@ Born and raised in Russia, I relocated to the Czech Republic in 2010 to pursue m
 
 After SUSE, I’ve worked with leading firms in [**big data**](https://www.gooddata.com/), [**video streaming**](https://www.iflix.com/), [**consulting**](https://www.mckinsey.com/), and [**finance**](https://www.absa.africa/).
 
-I eventually joined [**Upbound**](https://github.com/upbound) to spearhead the control plane revolution in cloud-native infrastructure.
+I eventually joined [**Upbound**](https://www.upbound.io/) to spearhead the control plane revolution in cloud-native infrastructure.
 
 
 ## 📫 Let's Connect
