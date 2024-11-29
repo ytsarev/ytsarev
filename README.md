@@ -13,7 +13,7 @@
 
 ## 🧑‍💼 Short Bio
 
-Born and raised in Russia, I relocated to the Czech Republic in 2010 to pursue my passion for open-source and join [**SUSE Linux**](https://www.suse.com/).
+Born and raised in Russia, I relocated to the Czech Republic in 2010 to pursue my passion for open source and join [**SUSE Linux**](https://www.suse.com/).
 
 After SUSE, I’ve worked with leading firms in [**big data**](https://www.gooddata.com/), [**video streaming**](https://www.iflix.com/), [**consulting**](https://www.mckinsey.com/), and [**finance**](https://www.absa.africa/).
 
