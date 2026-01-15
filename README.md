@@ -24,5 +24,8 @@ I eventually joined [**Upbound**](https://www.upbound.io/) to spearhead the cont
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yurytsarev/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/xnullz)
 
+<img width="1536" height="1302" alt="git-wrapped-ytsarev (1)" src="https://github.com/user-attachments/assets/3c9dd2cd-3351-4f07-a07e-f9490f80b7c0" />
 
-![Yury's GitHub stats](https://github-readme-stats.vercel.app/api?username=ytsarev&count_private=true&show_icons=true&theme=tokyonight)
+
+
+
